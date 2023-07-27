@@ -1,9 +1,20 @@
-## Header
+## Main header (prj title)
 
-Text
+Project description
 
-### Sub-Header
+### Live Demo
 
-Text
+🚀 [Deployed App](https://)
 
-🚀 [Some link here](https://)
+#### 🛠️ Build with
+
+- React
+
+#### 💻 Run this project
+
+```
+git clone [repo]
+npm install
+npm run dev
+```
+
